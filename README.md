@@ -1,7 +1,5 @@
 # Impact-Analysis-of-PCC-education-project
-Impact assessment of the ‘Sikshak Sahayogi Dal’ project undertaken by Pune City Connect(PCC), an organization which is an amalgam of government and corporate entities working collectively to bring educational equity in the city of Pune, Maharashtra, India.
-
-This report was the outcome of my research study about the project during my summer intership at Teach for India.
+Impact assessment of the ‘Sikshak Sahayogi Dal’ project undertaken by Pune City Connect(PCC), an organization which is an amalgam of government and corporate entities working collectively to bring educational equity in the city of Pune, Maharashtra, India. This report is the outcome of my research study about the project during my summer intership at Teach for India.
 
 As part of its objective to provide quality education, PCC decided to build a sustainable and collaborative government education system that is deeply committed to improve the quality of student learning in Pune Municipal Schools by creating a cadre of Teacher Development Officers (Shikshak Sahyogi Dal) who will be committed to improve the instructional skills and to develop the right mind-sets of the teachers to improve teaching learning process in Pune Municipal Schools.
 
